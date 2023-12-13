@@ -1,5 +1,5 @@
 # boreal-birds-seismic-line-recovery
-R project for modelling boreal bird abundance along seismic lines in BC, NWT (Canada) at different stages of vegetation recovery. This R project and its data and code are associated with a manuscript submitted for consideration for publication in Avian Conservation and Ecology. The manuscript's title is "BOREAL SONGBIRD RESPONSE 
+R project for modelling boreal bird abundance along seismic lines in northeastern British Columbia and the Northwest Territories, Canada, at different stages of vegetation recovery. This R project and its data and code are associated with a manuscript submitted for consideration for publication in Avian Conservation and Ecology. The manuscript's title is "BOREAL SONGBIRD RESPONSE 
 TO SEISMIC LINE RECOVERY AT VARYING SCALES".
 
 ABSTRACT:
